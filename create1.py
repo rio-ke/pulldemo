@@ -1,9 +1,7 @@
 
-FloatingPointError
-yield
+ield
 repr
 try
     yield
     yield
 import
-    UnboundLocalError
